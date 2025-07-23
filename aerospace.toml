@@ -215,5 +215,4 @@ automatically-unhide-macos-hidden-apps = false
     if.app-id = 'com.github.wez.wezterm'
     run = [
         'layout floating',
-        'move-node-to-workspace C',
     ]
